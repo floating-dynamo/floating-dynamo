@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shridharmaskeri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eTS84TwuTTkVNzw19O6EsF8xn_TimxJz/view?usp=share_link](https://drive.google.com/file/d/1eTS84TwuTTkVNzw19O6EsF8xn_TimxJz/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eTS84TwuTTkVNzw19O6EsF8xn_TimxJz/view?usp=share_link)
 
 - ⚡ Fun fact **I love to code!**
 
@@ -20,7 +20,7 @@
 <a href="https://codepen.io/floating_dynamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="floating_dynamo" height="30" width="40" /></a>
 <a href="https://twitter.com/sridharmaskeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sridharmaskeri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sridhar-maskeri-1714001aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar-maskeri-1714001aa" height="30" width="40" /></a>
-<a href="https://codesandbox.com/floating_dynamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="floating_dynamo" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Floating_dynamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="floating_dynamo" height="30" width="40" /></a>
 <a href="https://medium.com/@shridharmaskeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shridharmaskeri" height="30" width="40" /></a>
 </p>
 
