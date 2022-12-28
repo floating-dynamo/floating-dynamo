@@ -13,6 +13,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hoisting  in JavaScript!](https://medium.com/@shridharmaskeri/hoisting-in-javascript-1633eaa89aa8?source=rss-c18a7a86d7ac------2)
+- [React — useEffect Hook , for Beginners!](https://medium.com/@shridharmaskeri/react-useeffect-hook-for-beginners-9e610d8ba22f?source=rss-c18a7a86d7ac------2)
+- [How to publish your React App with Github Pages](https://medium.com/@shridharmaskeri/how-to-publish-your-react-app-with-github-pages-e77738da1b0c?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
