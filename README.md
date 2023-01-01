@@ -37,4 +37,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floating-dynamo&layout=compact)](https://github.com/floating-dynamo/github-readme-stats)
 
 ### My Github Stats
-![Sridhar Maskeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=floating-dynamo&count_private=true)
+![Sridhar Maskeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=floating-dynamo&count_private=true&theme=nightowl)
