@@ -13,9 +13,9 @@
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a simple REST API using Node Js and Express](https://medium.com/@shridharmaskeri/creating-a-simple-rest-api-using-node-js-and-express-3a5cc00c160a?source=rss-c18a7a86d7ac------2)
 - [Hoisting  in JavaScript!](https://medium.com/@shridharmaskeri/hoisting-in-javascript-1633eaa89aa8?source=rss-c18a7a86d7ac------2)
 - [React — useEffect Hook , for Beginners!](https://medium.com/@shridharmaskeri/react-useeffect-hook-for-beginners-9e610d8ba22f?source=rss-c18a7a86d7ac------2)
-- [How to publish your React App with Github Pages](https://medium.com/@shridharmaskeri/how-to-publish-your-react-app-with-github-pages-e77738da1b0c?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
