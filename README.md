@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/sridhar-maskeri-1714001aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar-maskeri-1714001aa" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/Floating_dynamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="floating_dynamo" height="40" width="40" /></a>
 <a href="https://medium.com/@shridharmaskeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shridharmaskeri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Sridhar_CodeLab" target="blank"><img align="center" src="https://clipart.info/images/ccovers/1590430652red-youtube-logo-png-xl.png" alt="@shridharmaskeri" height="30" width="40" /></a>
 </p>
 
 ---
