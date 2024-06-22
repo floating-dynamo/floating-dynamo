@@ -13,9 +13,9 @@
 ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Polyfills for map, filter &amp; reduce](https://medium.com/@shridharmaskeri/polyfills-for-map-filter-reduce-232e04b28506?source=rss-c18a7a86d7ac------2)
 - [Understanding the JavaScript Event Loop with a Simple Example](https://medium.com/@shridharmaskeri/understanding-the-javascript-event-loop-with-a-simple-example-d8d6e6dd5db4?source=rss-c18a7a86d7ac------2)
 - [Creating a simple REST API using Node Js and Express](https://medium.com/@shridharmaskeri/creating-a-simple-rest-api-using-node-js-and-express-3a5cc00c160a?source=rss-c18a7a86d7ac------2)
-- [Hoisting  in JavaScript!](https://medium.com/@shridharmaskeri/hoisting-in-javascript-1633eaa89aa8?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
