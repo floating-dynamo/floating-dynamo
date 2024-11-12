@@ -60,6 +60,15 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
 </div>
 
+---
+### 📄 Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Boosting Performance with Caching: Mechanisms &amp; Eviction Policies | Mastering System Design…](https://medium.com/@shridharmaskeri/boosting-performance-with-caching-mechanisms-eviction-policies-mastering-system-design-60ca14b8c20b?source=rss-c18a7a86d7ac------2)
+- [Load Balancing for High Availability and Fault Tolerance | Mastering System Design: Building…](https://medium.com/@shridharmaskeri/load-balancing-for-high-availability-and-fault-tolerance-mastering-system-design-building-bb16e9da683c?source=rss-c18a7a86d7ac------2)
+- [Introduction to System Design: Key Concepts for Building Scalable Software | Mastering System…](https://medium.com/@shridharmaskeri/introduction-to-system-design-key-concepts-for-building-scalable-software-mastering-system-c09355acc06b?source=rss-c18a7a86d7ac------2)
+<!-- BLOG-POST-LIST:END -->
+---
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -76,15 +85,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=floating-dynamo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floating-dynamo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/floating-dynamo/floating-dynamo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shridharmaskeri&theme=vue" alt="Layout with last medium posts"  />
-</div>
-
-###
