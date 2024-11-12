@@ -63,9 +63,9 @@
 ---
 ### 📄 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Database Sharding &amp; Partitioning: Strategies for Scalability | Mastering System Design: Building…](https://medium.com/@shridharmaskeri/database-sharding-partitioning-strategies-for-scalability-mastering-system-design-building-a36bd6d7519f?source=rss-c18a7a86d7ac------2)
 - [Boosting Performance with Caching: Mechanisms &amp; Eviction Policies | Mastering System Design…](https://medium.com/@shridharmaskeri/boosting-performance-with-caching-mechanisms-eviction-policies-mastering-system-design-60ca14b8c20b?source=rss-c18a7a86d7ac------2)
 - [Load Balancing for High Availability and Fault Tolerance | Mastering System Design: Building…](https://medium.com/@shridharmaskeri/load-balancing-for-high-availability-and-fault-tolerance-mastering-system-design-building-bb16e9da683c?source=rss-c18a7a86d7ac------2)
-- [Introduction to System Design: Key Concepts for Building Scalable Software | Mastering System…](https://medium.com/@shridharmaskeri/introduction-to-system-design-key-concepts-for-building-scalable-software-mastering-system-c09355acc06b?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
