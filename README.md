@@ -63,9 +63,9 @@
 ---
 ### 📄 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Event-Driven Architecture: Decoupling Systems for Asynchronous Communication | Mastering System…](https://medium.com/@shridharmaskeri/event-driven-architecture-decoupling-systems-for-asynchronous-communication-mastering-system-7d54a3c38b1c?source=rss-c18a7a86d7ac------2)
 - [Understanding the CAP Theorem: Consistency, Availability, &amp; Partition Tolerance | Mastering System…](https://medium.com/@shridharmaskeri/understanding-the-cap-theorem-consistency-availability-partition-tolerance-mastering-system-3a697496cf44?source=rss-c18a7a86d7ac------2)
 - [Database Sharding &amp; Partitioning: Strategies for Scalability | Mastering System Design: Building…](https://medium.com/@shridharmaskeri/database-sharding-partitioning-strategies-for-scalability-mastering-system-design-building-a36bd6d7519f?source=rss-c18a7a86d7ac------2)
-- [Boosting Performance with Caching: Mechanisms &amp; Eviction Policies | Mastering System Design…](https://medium.com/@shridharmaskeri/boosting-performance-with-caching-mechanisms-eviction-policies-mastering-system-design-60ca14b8c20b?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
