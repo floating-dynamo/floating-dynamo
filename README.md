@@ -63,9 +63,9 @@
 ---
 ### 📄 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture: Decoupling Systems for Asynchronous Communication | Mastering System…](https://medium.com/@shridharmaskeri/event-driven-architecture-decoupling-systems-for-asynchronous-communication-mastering-system-7d54a3c38b1c?source=rss-c18a7a86d7ac------2)
-- [Understanding the CAP Theorem: Consistency, Availability, &amp; Partition Tolerance | Mastering System…](https://medium.com/@shridharmaskeri/understanding-the-cap-theorem-consistency-availability-partition-tolerance-mastering-system-3a697496cf44?source=rss-c18a7a86d7ac------2)
-- [Database Sharding &amp; Partitioning: Strategies for Scalability | Mastering System Design: Building…](https://medium.com/@shridharmaskeri/database-sharding-partitioning-strategies-for-scalability-mastering-system-design-building-a36bd6d7519f?source=rss-c18a7a86d7ac------2)
+- [Polyfills for map, filter &amp; reduce](https://medium.com/@shridharmaskeri/polyfills-for-map-filter-reduce-232e04b28506?source=rss-c18a7a86d7ac------2)
+- [Understanding the JavaScript Event Loop](https://medium.com/@shridharmaskeri/understanding-the-javascript-event-loop-with-a-simple-example-d8d6e6dd5db4?source=rss-c18a7a86d7ac------2)
+- [Creating a simple REST API using Node Js and Express](https://medium.com/@shridharmaskeri/creating-a-simple-rest-api-using-node-js-and-express-3a5cc00c160a?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
