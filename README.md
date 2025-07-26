@@ -63,9 +63,9 @@
 ---
 ### 📄 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Interview Experience at H&amp;M for a Fullstack Engineer Role](https://medium.com/@shridharmaskeri/my-interview-journey-at-h-m-for-a-fullstack-engineer-role-bac447792529?source=rss-c18a7a86d7ac------2)
 - [Polyfills for map, filter &amp; reduce](https://medium.com/@shridharmaskeri/polyfills-for-map-filter-reduce-232e04b28506?source=rss-c18a7a86d7ac------2)
 - [Understanding the JavaScript Event Loop](https://medium.com/@shridharmaskeri/understanding-the-javascript-event-loop-with-a-simple-example-d8d6e6dd5db4?source=rss-c18a7a86d7ac------2)
-- [Creating a simple REST API using Node Js and Express](https://medium.com/@shridharmaskeri/creating-a-simple-rest-api-using-node-js-and-express-3a5cc00c160a?source=rss-c18a7a86d7ac------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
